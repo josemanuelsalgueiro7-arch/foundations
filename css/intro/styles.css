@@ -1,3 +1,9 @@
+/* Universal Selector */
 * {
   color: purple;
+}
+
+/* Type Selector */
+div {
+  color: blue;
 }
