@@ -12,3 +12,8 @@ div {
 .alert-text {
   color: tomato;
 }
+
+/* ID Selector */
+#title {
+  background-color: red;
+}
