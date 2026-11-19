@@ -7,3 +7,8 @@
 div {
   color: blue;
 }
+
+/* Class Selector */
+.alert-text {
+  color: tomato;
+}
